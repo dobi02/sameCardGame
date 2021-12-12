@@ -99,6 +99,7 @@ public class CardGameBoard {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+            board[first[0]][first[1]];
             return false;
         }
         score += 1;

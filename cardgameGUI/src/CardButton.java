@@ -35,4 +35,11 @@ public class CardButton extends JButton implements ActionListener {
         }
     }
 
+    public void hideButton(){
+        this.setText("?");
+    }
+
+
+
+
 }
