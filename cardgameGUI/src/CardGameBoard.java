@@ -102,7 +102,7 @@ public class CardGameBoard {
             return false;
         }
         score += 1;
-        if(gameOver()) { //gameover 판단
+        if(gameOver()) {
         	
         }
         
